@@ -1,0 +1,15 @@
+C:\Users\guohe\source\repos\Mortgage Calculator\bin\Debug\netcoreapp3.1\Mortgage Calculator.exe
+C:\Users\guohe\source\repos\Mortgage Calculator\bin\Debug\netcoreapp3.1\Mortgage Calculator.deps.json
+C:\Users\guohe\source\repos\Mortgage Calculator\bin\Debug\netcoreapp3.1\Mortgage Calculator.runtimeconfig.json
+C:\Users\guohe\source\repos\Mortgage Calculator\bin\Debug\netcoreapp3.1\Mortgage Calculator.runtimeconfig.dev.json
+C:\Users\guohe\source\repos\Mortgage Calculator\bin\Debug\netcoreapp3.1\Mortgage Calculator.dll
+C:\Users\guohe\source\repos\Mortgage Calculator\bin\Debug\netcoreapp3.1\Mortgage Calculator.pdb
+C:\Users\guohe\source\repos\Mortgage Calculator\obj\Debug\netcoreapp3.1\Mortgage Calculator.csprojAssemblyReference.cache
+C:\Users\guohe\source\repos\Mortgage Calculator\obj\Debug\netcoreapp3.1\Mortgage_Calculator.Form1.resources
+C:\Users\guohe\source\repos\Mortgage Calculator\obj\Debug\netcoreapp3.1\Mortgage Calculator.csproj.GenerateResource.cache
+C:\Users\guohe\source\repos\Mortgage Calculator\obj\Debug\netcoreapp3.1\Mortgage Calculator.AssemblyInfoInputs.cache
+C:\Users\guohe\source\repos\Mortgage Calculator\obj\Debug\netcoreapp3.1\Mortgage Calculator.AssemblyInfo.cs
+C:\Users\guohe\source\repos\Mortgage Calculator\obj\Debug\netcoreapp3.1\Mortgage Calculator.csproj.CoreCompileInputs.cache
+C:\Users\guohe\source\repos\Mortgage Calculator\obj\Debug\netcoreapp3.1\Mortgage Calculator.dll
+C:\Users\guohe\source\repos\Mortgage Calculator\obj\Debug\netcoreapp3.1\Mortgage Calculator.pdb
+C:\Users\guohe\source\repos\Mortgage Calculator\obj\Debug\netcoreapp3.1\Mortgage Calculator.genruntimeconfig.cache
